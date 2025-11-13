@@ -1,0 +1,6 @@
+{
+  "maxDepth": 1,
+  "maxArtists": 100,
+  "outputDir": "data/output",
+  "flatten": "artists"
+}
