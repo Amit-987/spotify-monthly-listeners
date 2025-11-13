@@ -1,0 +1,38 @@
+and configs/settings.example.json.
+    """
+    if path:
+        p = Path(path)
+        if not p.is_file():
+            raise FileNotFoundError(f"Settings file not found: {p}")
+        logger.info("Loading settings from %s", p)
+        return _load_json(p)
+
+    configs_dir = BASE_DIR / "configs"
+    for name in ("settings.json", "settings.example.json"):
+        candidate = configs_dir / name
+        if candidate.is_file():
+            logger.info("Loading settings from %s", candidate)
+            return _load_json(candidate)
+
+    raise FileNotFoundError("Could not find settings.json or settings.example.json.")
+
+def load_input(path: Optional[str] = None) -> Dict[str, Any]:
+    """
+    Load input configuration from an explicit path or fall back to
+    configs/input.json and configs/input.example.json.
+    """
+    if path:
+        p = Path(path)
+        if not p.is_file():
+            raise FileNotFoundError(f"Input file not found: {p}")
+        logger.info("Loading input from %s", p)
+        return _load_json(p)
+
+    configs_dir = BASE_DIR / "configs"
+    for name in ("input.json", "input.example.json"):
+        candidate = configs_dir / name
+        if candidate.is_file():
+            logger.info("Loading input from %s", candidate)
+            return _load_json(candidate)
+
+    raise FileNotFoundError("Could not find input.json or input.example.json.")
