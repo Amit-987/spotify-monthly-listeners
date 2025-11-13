@@ -1,0 +1,8 @@
+{
+  "startUrls": [
+    "https://open.spotify.com/artist/0C7jgMYmKXPmy5bHH5ebEN"
+  ],
+  "maxDepth": 1,
+  "maxArtists": 10,
+  "flatten": "artists"
+}
