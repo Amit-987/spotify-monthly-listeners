@@ -1,0 +1,90 @@
+[
+  {
+    "artist_name": "Cruel Diagonals",
+    "artist_id": "0C7jgMYmKXPmy5bHH5ebEN",
+    "followers": 1670,
+    "monthlyListeners": 3524,
+    "verified": true,
+    "avatarImage": "https://i.scdn.co/image/ab67616100005174727cf97e49eaca2e0411e66e",
+    "headerImage": "https://i.scdn.co/image/ab676186000010160004716795f0d9198c8696f4",
+    "gallery": [
+      "https://i.scdn.co/image/ab6761670000ecd4c891079bac8e7d1e65a9988a"
+    ],
+    "timestamp": "2024-01-27T18:19:36.713298",
+    "FACEBOOK": "https://facebook.com/crueldiagonals/",
+    "INSTAGRAM": "https://instagram.com/crueldiagonals",
+    "TWITTER": "https://twitter.com/crueldiagonals",
+    "topCities": [
+      {
+        "numberOfListeners": 57,
+        "city": "Warsaw",
+        "country": "PL",
+        "region": "14"
+      }
+    ],
+    "biography": "Since 2016, Los Angeles-based multimedia artist, Cruel Diagonals...",
+    "related": [
+      {
+        "id": "0BUiirjlNsKKVBqxuPctXw",
+        "name": "Death Qualia",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c4aab2b4a9b2d7356a651f00"
+      }
+    ],
+    "releases": [
+      {
+        "id": "4LLeRNBrcuwxj6QrhMmQ0K",
+        "name": "Fractured Whole",
+        "type": "ALBUM",
+        "label": "Beacon Sound",
+        "date": "2023-03-24",
+        "url": "https://open.spotify.com/album/4LLeRNBrcuwxj6QrhMmQ0K?si=C-SZuu6aRKWEE1twu7-4hg",
+        "tracks": 11,
+        "image": "https://i.scdn.co/image/ab67616d0000b273ce0e56337a4558caf5fb50a5",
+        "copyright": "2023 Cruel Diagonals"
+      }
+    ],
+    "topTracks": [
+      {
+        "id": "6IZrWKNy07OMGLKU24KJhQ",
+        "name": "Innate Abstraction",
+        "playcount": 172747,
+        "duration": 177655,
+        "artists": "Cruel Diagonals",
+        "album": "46C7T2d104a8fZGaMyJaLr",
+        "image": "https://i.scdn.co/image/ab67616d0000b27331b4784e8e6eec1cfe8c389b",
+        "contentRating": "NONE"
+      }
+    ],
+    "discoveredOn": [
+      {
+        "id": "37i9dQZF1DX8OUvJF6ATAB",
+        "name": "Exospheres",
+        "description": "Explore the inner worlds floating in the imagination of experimental Ambient music producers.",
+        "owner": "Spotify",
+        "url": "https://open.spotify.com/playlist/37i9dQZF1DX8OUvJF6ATAB",
+        "image": "https://i.scdn.co/image/ab67706f00000002be7d0bf41d8f366bafc3f4fc"
+      }
+    ],
+    "appearsOn": [
+      {
+        "id": "6gvAY3mEH9j4JfHgqkQY0P",
+        "name": "Becoming Everything: Strega Beata Remixed",
+        "artist_name": "Lana Del Rabies",
+        "artist_id": "1IoH5ykVwG4K5c98iAhQYk",
+        "url": "https://open.spotify.com/album/6gvAY3mEH9j4JfHgqkQY0P?si=Z7HIPnrTSdSfjeZH3xcdLQ",
+        "type": "ALBUM",
+        "image": "https://i.scdn.co/image/ab67616d0000b2737fef0c516db8f4f28dfa9be5"
+      }
+    ],
+    "events": [
+      {
+        "id": "1dnXGIzTm14lTwcOCSi2PK",
+        "name": "Cruel Diagonals, DJ Dolomedes, Mind Mirage, 55Castles",
+        "url": "https://open.spotify.com/concert/('1dnXGIzTm14lTwcOCSi2PK',)",
+        "date": "2025-04-01T19:00:00-07:00",
+        "venue": "Gold-Diggers",
+        "location": "Los Angeles"
+      }
+    ]
+  }
+]
